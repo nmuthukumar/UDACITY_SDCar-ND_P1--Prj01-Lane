@@ -35,12 +35,12 @@ This Project Repository mainly contains the following **Files**:
    4. Suggestions of Possible Improvements to the Pipeline.
 
 ... and the following **Folders**:
-- `examples` - Folder containing Example Input/Output Images and Videos.
-- `Pipe` - Folder containing an Example Input Image and its corresponding Output Images from each Step of my Lane Detection Pipeline.
-- `test_images` - Folder containing the actual Input Test Images and their corresponding Final Output Images from my Lane Detection Pipeline.
-- `test_videos` - Folder containing the Input Test Videos.
-- `test_videos_output` - Folder containing the Final Output Videos from my Lane Detection Pipeline corresponding to the Input Test Videos in Folder `test_videos`.
-- `Issues` - Folder containing Images & Videos depicting Issues faced and their corresponding Solutions.
+- `examples/` - Folder containing Example Input/Output Images and Videos.
+- `Pipe/` - Folder containing an Example Input Image and its corresponding Output Images from each Step of my Lane Detection Pipeline.
+- `test_images/` - Folder containing the actual Input Test Images and their corresponding Final Output Images from my Lane Detection Pipeline.
+- `test_videos/` - Folder containing the Input Test Videos.
+- `test_videos_output/` - Folder containing the Final Output Videos from my Lane Detection Pipeline corresponding to the Input Test Videos in Folder `test_videos`.
+- `Issues/` - Folder containing Images & Videos depicting Issues faced and their corresponding Solutions.
 
 ---
 
@@ -67,7 +67,7 @@ This Project Repository mainly contains the following **Files**:
   2. Feature Switches:  
      Enable/Disable the Feature Switches and Development Feature Switches as required before execution.
   3. Parameters:  
-     Note the Parameter Values of each of the Functions, read the corresponding Comments, and alter as required before execution.
+     Note the Parameter Values of each of the Functions, Read the corresponding Comments, and Alter the Values as required before execution.
 
 Enjoy! :-)
 
