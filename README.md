@@ -39,7 +39,7 @@ This Project Repository mainly contains the following **Files**:
 - `Pipe/` - Folder containing an Example Input Image and its corresponding Output Images from each Step of my Lane Detection Pipeline.
 - `test_images/` - Folder containing the actual Input Test Images and their corresponding Final Output Images from my Lane Detection Pipeline.
 - `test_videos/` - Folder containing the Input Test Videos.
-- `test_videos_output/` - Folder containing the Final Output Videos from my Lane Detection Pipeline corresponding to the Input Test Videos in Folder `test_videos`.
+- `test_videos_output/` - Folder containing the Final Output Videos from my Lane Detection Pipeline corresponding to the Input Test Videos in Folder `test_videos/`.
 - `Issues/` - Folder containing Images & Videos depicting Issues faced and their corresponding Solutions.
 
 ---
